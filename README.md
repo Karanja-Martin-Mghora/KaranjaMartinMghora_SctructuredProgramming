@@ -1,3 +1,3 @@
 # KaranjaMartinMghora_SctructuredProgramming
-A repository for all class assignments 
+A repository for all class assignments .
 The assignments are in the branches.....

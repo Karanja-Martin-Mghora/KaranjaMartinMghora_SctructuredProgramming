@@ -1,2 +1,1 @@
-# KaranjaMartinMghora_SctructuredProgramming
-A repository for all class assignments 
+Submition for Assignment 1
